@@ -22,7 +22,7 @@ I'm currently learning deep learning and working on my pet projects.
 
 ### 🚀 Feautured projects
 
-- **[Retina vessel Segmentation](https://github.com/yakovlevanton/bmstu-coursework-retina-segmentation)** — модель сегментации сетчатки глаза на медицинских снимках.  
+- **[Retina vessel Segmentation](https://github.com/yakovlevanton/bmstu-coursework-retina-segmentation)** — модель сегментации сосудов глаза на медицинских снимках.  
   `PyTorch` `U-Net++` `Streamlit`
 
 ---
