@@ -22,7 +22,8 @@ I'm currently learning deep learning and working on my pet projects.
 
 ### 🚀 Feautured projects
 
-- **[Retina vessel Segmentation](https://github.com/yakovlevanton/bmstu-coursework-retina-segmentation)** — модель сегментации сосудов глаза на медицинских снимках.  
+- **[Retina vessel Segmentation](https://github.com/yakovlevanton/bmstu-coursework-retina-segmentation)** - модель сегментации сосудов глаза на медицинских снимках.  
   `PyTorch` `U-Net++` `Streamlit`
-
+- **[Credit scoring](https://github.com/yakovlevanton/credit_scoring)** - модель предсказания вероятности дефолта клиентов банка.  
+  `Sklearn` `CatBoost` `Pandas` `NumPy`
 ---
